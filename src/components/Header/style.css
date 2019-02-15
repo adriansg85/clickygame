@@ -1,0 +1,13 @@
+.instructions {
+    margin-top: 160px !important;
+}
+
+@media (min-width: 576px) {
+    .instructions {
+        margin-top: 80px !important;
+    }
+}
+
+.jumbotron {
+    background-color: rgb(153, 134, 119);
+}
